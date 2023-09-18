@@ -8,7 +8,7 @@
 - 항목1
 - 항목2
 
-- 파이썬에서 출력을 하기 위한 함수는 `pirnt()`입니다.
+- 파이썬에서 출력을 하기 위한 함수는 `print()`입니다.
 ```python
 def my_func():
     return 'hello'
